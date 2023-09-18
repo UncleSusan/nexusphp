@@ -1,6 +1,7 @@
 body
 {
 font-size: 8pt;
+filter: grayscale(1);
 }
 h1
 {
